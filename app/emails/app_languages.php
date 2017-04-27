@@ -238,7 +238,7 @@ $text['label-from']['sv-se'] = "Från";
 $text['label-from']['de-de'] = "Von";
 $text['label-from']['de-at'] = "Von";
 $text['label-from']['it-it'] = "Da";
-$text['label-from']['ru-ru'] = "Из";
+$text['label-from']['ru-ru'] = "От";
 
 $text['label-download']['en-us'] = "Download";
 $text['label-download']['es-cl'] = "Descargar";
