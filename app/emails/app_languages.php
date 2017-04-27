@@ -118,7 +118,7 @@ $text['label-to']['sv-se'] = "Till";
 $text['label-to']['de-de'] = "An";
 $text['label-to']['de-at'] = "An";
 $text['label-to']['it-it'] = "A";
-$text['label-to']['ru-ru'] = "To";
+$text['label-to']['ru-ru'] = "До";
 
 $text['label-subject']['en-us'] = "Subject";
 $text['label-subject']['es-cl'] = "Sujeto";
